@@ -1,6 +1,10 @@
 #load functions
 
+<<<<<<< HEAD
 #Trivial Change MBP
+=======
+# Trivial Change. 
+>>>>>>> eed0d62c3fcf07093d7b0564979c579abd7a996a
 
 Get-ChildItem -Path $PSScriptRoot\functions\*.ps1 |
 ForEach-Object {
